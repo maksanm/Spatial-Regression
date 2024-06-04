@@ -1,0 +1,4 @@
+geopandas==0.14.4
+libpysal==4.10
+spreg==1.4.2
+geodatasets==2023.12.0
